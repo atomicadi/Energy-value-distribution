@@ -1,4 +1,7 @@
-program calc_value !Written by Aditya Barman
+! Aditya Barman, Project Associate, Manipal University Jaipur, India; May 21, 2024
+! Email: atomicadi2023@gmail.com
+
+program calc_value
       implicit none 
       integer :: i, n
       real :: m, x, y, z, R, val, E, E_i, E_j
@@ -33,6 +36,3 @@ contains
         write(s, '(I10)') i
     end function int2str
 end program calc_value
-
-   
-           
