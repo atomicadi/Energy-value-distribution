@@ -9,7 +9,7 @@ $$
 
 
 </p>
-To generate a microcanonical ensamble, random values of P$_{i}$ and Q$_i$ are chosen so that the states are uniformly distrubuted in the classical phase space defined by H(P,Q). The total vibration energy E$_{\nu}^0$ is rndomly divided among n normal modes.
+To generate a microcanonical ensamble, random values of P<sub>i</sub>sub> and Q$_i$ are chosen so that the states are uniformly distrubuted in the classical phase space defined by H(P,Q). The total vibration energy E$_{\nu}^0$ is rndomly divided among n normal modes.
  NH<sub>2</sub>
 
 
