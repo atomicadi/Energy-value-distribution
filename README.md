@@ -9,7 +9,7 @@ $$
 
 
 </p>
-Where, P<sub>i</sub> and Q<sub>i</sub> are the normal mode momentum and coordinates respectively and to generate a microcanonical ensamble, random values of P<sub>i</sub> and Q<sub>i</sub> are chosen so that the states are uniformly distrubuted in the classical phase space defined by H(P,Q). The total vibration energy E<sub>ν</sub><sup>0</sup> is randomly divided among n normal modes using:
+Where, P<sub>i</sub> and Q<sub>i</sub> are the normal mode momentum and coordinates respectively and to generate a microcanonical ensamble, random values of P<sub>i</sub> and Q<sub>i</sub> are chosen so that the states are uniformly distrubuted in the classical phase space defined by H(P,Q). The total vibration energy E<sub>ν</sub><sup>0</sup> is randomly divided among the n normal modes using:
 <p align="center">
 
 
