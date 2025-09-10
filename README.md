@@ -1,4 +1,4 @@
-# Mathematical formulation of microcanonical normal mode sampling:
+# Microcanonical normal mode sampling in Fortran:
 For a system with n normal modes, the Hamiltonian is simply the sum of the energies of independent harmonic oscillators:
 <p align="center">
 
