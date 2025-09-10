@@ -1,9 +1,13 @@
 # Mathematical formulation of microcanonical normal mode sampling:
 For a system with n normal modes, the Hamiltonian is simply the sum of the ehergies of independent harmonic oscillators:\
 <p align="center">
+
+  
 $$
 H =  E = \sum_{i=1}^n E_i = \sum_{i=1}^n [\frac{P_i^2 + \omega_i^2Q_i^2}{2}]
 $$
+
+
 </p>
   
  
