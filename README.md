@@ -24,7 +24,6 @@ Where, ($E_ν^0 = \sum_{i=1}^n E_i$), E<sub>i</sub> is the energy assigned to i<
 For more detailed information, please check the ESI (Electronic Supplementary Information) file of the corresponding research article:\
 Rai, P.K., Gutal, A.P. and Kumar, P., **2025**. The puzzle of high lifetime and low stabilization of HO<sub>3</sub><sup>•</sup>: Rationalization and Prediction. _Phys. Chem. Chem.Phys._.\\
 
-So, in this project 
-Below is a simple mathematical explanation: 
+So, in this project, the equation (2) has been tried to solve using fortran (cal.f90) and below is a simple mathematical explanation: 
                                         
 ![Energy_dist](https://github.com/atomicadi/Energy-value-distribution/assets/147025377/17bb5b6c-3675-44b6-839d-2b7a0c467df4)
