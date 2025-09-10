@@ -4,7 +4,7 @@ For a system with n normal modes, the Hamiltonian is simply the sum of the energ
 
 
 $$
-H =  E = \sum_{i=1}^n E_i = \sum_{i=1}^n [\frac{P_i^2 + \omega_i^2Q_i^2}{2}]
+H =  E = \sum_{i=1}^n E_i = \sum_{i=1}^n [\frac{P_i^2 + \omega_i^2Q_i^2}{2}] ...... (1)
 $$
 
 
@@ -14,7 +14,7 @@ Where, P<sub>i</sub> and Q<sub>i</sub> are the normal mode momentum and coordina
 
 
 $$
-E_i = [E_ν^0 - \sum_{j=1}^{i-1} E_j][1 - R_i^{\frac{1}{n-i}}]
+E_i = [E_ν^0 - \sum_{j=1}^{i-1} E_j][1 - R_i^{\frac{1}{n-i}}] ...... (2)
 $$
 
 
