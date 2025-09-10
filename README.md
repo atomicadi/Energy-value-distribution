@@ -19,7 +19,7 @@ $$
 
 
 </p>
-Where, ($E_{\nu}^0 = \sum_{i=1}^n E_i$), E<sub>i</sub> is the energy assigned to i<sup>{th}</sup> normal mode, and R<sub>i</sub> is a normal number between 0 and 1.
+Where, ($E_ν^0 = \sum_{i=1}^n E_i$), E<sub>i</sub> is the energy assigned to i<sup>{th}</sup> normal mode, and R<sub>i</sub> is a normal number between 0 and 1.
 
                                         
 ![Energy_dist](https://github.com/atomicadi/Energy-value-distribution/assets/147025377/17bb5b6c-3675-44b6-839d-2b7a0c467df4)
