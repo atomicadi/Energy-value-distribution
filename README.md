@@ -14,7 +14,7 @@ To generate a microcanonical ensamble, random values of P<sub>i</sub> and Q<sub>
 
 
 $$
-E_i = [E_0^ν]=[E\sum_{i=1}^n E_i = \sum_{i=1}^n [\frac{P_i^2 + \omega_i^2Q_i^2}{2}]
+E_i = [E_ν^0 - \sum_j^{i-1} E_j]=[E\sum_{i=1}^n E_i = \sum_{i=1}^n [\frac{P_i^2 + \omega_i^2Q_i^2}{2}]
 $$
 
 
