@@ -21,6 +21,8 @@ $$
 </p>
 
 Where, ($E_ν^0 = \sum_{i=1}^n E_i$), E<sub>i</sub> is the energy assigned to i<sup>th</sup> normal mode, and R<sub>i</sub> is a random number between 0 and 1.\
-Below is the simple mathematical explanation and for more, please follow the ESI file of this research article: 
+For more detailed information, please check the ESI (Electronic Supplementary Information) file of the corresponding research article:\
+P. K. Rai, P. Kumar, The puzzle of high lifetime and low stabilization of HO<sub>3</sub><sup>.</sup> rationalization and prediction
+Below is a simple mathematical explanation. 
                                         
 ![Energy_dist](https://github.com/atomicadi/Energy-value-distribution/assets/147025377/17bb5b6c-3675-44b6-839d-2b7a0c467df4)
