@@ -19,6 +19,7 @@ $$
 
 
 </p>
+
 Where, (E<sub>ν</sub><sup>0</sup> = $\sum_{i=1}^n$ E_i), E<sub>i</sub> is the energy assigned to i<sup>th</sup> normal mode, and R<sub>i</sub> is a normal number between 0 and 1. $\sum_1^5$
 
                                         
