@@ -20,7 +20,9 @@ $$
 
 </p>
 
-Where, ($E_ν^0 = \sum_{i=1}^n E_i$), E<sub>i</sub> is the energy assigned to i<sup>th</sup> normal mode, and R<sub>i</sub> is a random number between 0 and 1.\
+Where, ($E_ν^0 = \sum_{i=1}^n E_i$), E<sub>i</sub> is the energy assigned to i<sup>th</sup> normal mode, and R<sub>i</sub> is a random number between 0 and 1.
+
+
 For more detailed information, please check the ESI (Electronic Supplementary Information) file of the corresponding research article:\
 Rai, P.K., Gutal, A.P. and Kumar, P., **2025**. The puzzle of high lifetime and low stabilization of HO<sub>3</sub><sup>•</sup>: Rationalization and Prediction. _Phys. Chem. Chem.Phys._.
 
