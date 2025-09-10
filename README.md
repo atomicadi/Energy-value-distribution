@@ -1,5 +1,5 @@
 # Mathematical formulation of microcanonical normal mode sampling:
-For a system with n normal modes, the Hamiltonian is simply the sum of the ehergies of independent harmonic oscillators:
+For a system with n normal modes, the Hamiltonian is simply the sum of the energies of independent harmonic oscillators:
 <p align="center">
 
 
@@ -9,7 +9,7 @@ $$
 
 
 </p>
-To generate a microcanonical ensamble, random values of P<sub>i</sub> and Q<sub>i</sub> are chosen so that the states are uniformly distrubuted in the classical phase space defined by H(P,Q). The total vibration energy E<sub>ν</sub><sup>0</sup> is randomly divided among n normal modes using:
+Where, P<sub>i</sub> and Q<sub>i</sub> are the normal mode momentum and coordinates respectively and to generate a microcanonical ensamble, random values of P<sub>i</sub> and Q<sub>i</sub> are chosen so that the states are uniformly distrubuted in the classical phase space defined by H(P,Q). The total vibration energy E<sub>ν</sub><sup>0</sup> is randomly divided among n normal modes using:
 <p align="center">
 
 
@@ -20,7 +20,7 @@ $$
 
 </p>
 
-Where, ($E_ν^0 = \sum_{i=1}^n E_i$), E<sub>i</sub> is the energy assigned to i<sup>th</sup> normal mode, and R<sub>i</sub> is a normal number between 0 and 1.
-
+Where, ($E_ν^0 = \sum_{i=1}^n E_i$), E<sub>i</sub> is the energy assigned to i<sup>th</sup> normal mode, and R<sub>i</sub> is a normal number between 0 and 1.\
+Below is the simple mathematical explanation and for more, please follow the ESI file of this research article: 
                                         
 ![Energy_dist](https://github.com/atomicadi/Energy-value-distribution/assets/147025377/17bb5b6c-3675-44b6-839d-2b7a0c467df4)
